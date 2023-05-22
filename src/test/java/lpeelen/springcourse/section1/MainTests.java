@@ -1,10 +1,10 @@
-package lpeelen.springcourse.sectionone;
+package lpeelen.springcourse.section1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SectiononeApplicationTests {
+class MainTests {
 
 	@Test
 	void contextLoads() {
